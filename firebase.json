@@ -1,0 +1,73 @@
+{
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "/DOCS",
+        "destination": "/index.html"
+      },
+      {
+        "source": "/v1/api/modules/login/wording/login",
+        "destination": "/login/loginwording.json"
+      },
+      {
+        "source": "/v1/api/modules/login/wording/register",
+        "destination": "/login/registerwording.json"
+      },
+      {
+        "source": "/v1/api/modules/login/wording/forgotpassword",
+        "destination": "/login/forgotpasswordwording.json"
+      },
+      {
+        "source": "/v1/api/modules/login/wording/changpassword",
+        "destination": "/login/changpasswordwording.json"
+      },
+      {
+        "source": "/v1/api/modules/login/wording/PDPA",
+        "destination": "/login/PDPAWording.Json"
+      },
+
+      {
+        "source": "/v1/api/modules/home/wording/homemore",
+        "destination": "/home/homemorewording.json"
+      },
+      {
+        "source": "/v1/api/modules/home/wording/moreerror",
+        "destination": "/home/moreerrorwording.json"
+      },
+      {
+        "source": "/v1/api/modules/home/wording/homestatusactivity",
+        "destination": "/home/homestatusactivity.json"
+      },
+      {
+        "source": "/v1/api/modules/home/more/data/boardstudy",
+        "destination": "/home/homemoreboardstudent.json"
+      },
+      {
+        "source": "/v1/api/modules/home/more/data/boardteacher",
+        "destination": "/home/homemoreboardteacher.json"
+      },
+
+      {
+        "source": "/v1/api/modules/activity/wording/add_edit_activity",
+        "destination": "/activity/addeditactivitywording.json"
+      },
+
+      {
+        "source": "/v1/api/modules/activity/wording/statusactivity",
+        "destination": "/activity/activitystatuswording.json"
+      },
+      {
+        "source": "/v1/api/modules/profile/wording/profile",
+        "destination": "/profile/profilewording.json"
+      }
+
+
+    ]
+  }
+}

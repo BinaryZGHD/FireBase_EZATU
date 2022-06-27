@@ -1,0 +1,15 @@
+{
+    "head": {
+        "status": "200",
+        "message": "success",
+        "module": "home"
+    },
+    "body": {
+        "screeninfo": {
+            "texturgo2": "You are going to",
+            "textright": "right ?",
+            "textyes": "Yes",
+            "textno": "No"
+        }
+     }
+}

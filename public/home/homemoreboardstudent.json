@@ -1,0 +1,685 @@
+{
+    "head": {
+        "status": "200",
+        "message": "success",
+        "module": "home"
+    },
+    "body": {
+        "screeninfo": {
+            "titlenisit": "Board of Study"
+        },
+        "user_gen": {
+            "namegen1": "กรีนทีมัทฉะลาเต้",
+            "namegen2": "name faculty",
+            "namegen3": "name department",
+            "colorgen": "#6BCB77",
+            "textteacher1": "คณุตม์ - ประเสริฐกว่าคนทั้งหลาย",
+            "textteacher2": "ตฤมปตี - ยินดี,พอใจ",
+            "textteacher3": "",
+            "numgen": "65"
+        },
+        "data_gen_list": [
+    
+            {
+                "namegen1": "อำพันรัตติกาล",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FFD93D",
+                "textteacher1": "กฤตัชญ์ - ผู้รู้คุณคนอื่น มีความกตัญญู",
+                "textteacher2": "กัญจนญากิตติ์ - ความรู้ชื่อเสียงดั่งทองคำ",
+                "textteacher3": "",
+                "numgen": "66"
+            },
+            {
+                "namegen1": "กรีนทีมัทฉะลาเต้",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#6BCB77",
+                "textteacher1": "คณุตม์ - ประเสริฐกว่าคนทั้งหลาย",
+                "textteacher2": "ตฤมปตี - ยินดี,พอใจ",
+                "textteacher3": "",
+                "numgen": "65"
+            },
+            {
+                "namegen1": "ธารไพลิน เมฆินปัณฑูร",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#4D96FF",
+                "textteacher1": "จิรทีปต์ - รุ่งเรืองตลอดกาลนาน",
+                "textteacher2": "เทียนกัลยาภัค - หญิงผู้โชคดีมีแสงเทียนนำทาง",
+                "textteacher3": "",
+                "numgen": "64"
+            },
+            {
+                "namegen1": "ทินกรซ้อนเมฆา",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FF6B6B",
+                "textteacher1": "ณัฐปคัลภ์ - ปราชญ์ผู้องอาจ",
+                "textteacher2": "ธมปภาญา - ความรู้ยิ่งใหญ่และเจริญ",
+                "textteacher3": "",
+                "numgen": "63"
+            },
+            {
+                "namegen1": "รัตติกาลสานตะวัน",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FFD93D",
+                "textteacher1": "ติณณภพ - ผู้ข้ามภพได้ ชื่อของผู้บรรลุธรรม",
+                "textteacher2": "ธัญนิศญาน์ - มีโชคยิ่งใหญ่และมีความรู้ดี",
+                "textteacher3": "",
+                "numgen": "62"
+            },
+            {
+                "namegen1": "อินทร์อัศนีฤทธิ์จักรกฤษณ์มรกต",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#6BCB77",
+                "textteacher1": "นิพพิชฌน์ - ปัญญา เข้าใจทะลุปรุโปร่ง ตรัสรู้",
+                "textteacher2": "นันทิภาคย์ - ยินดีในโชคลาภ",
+                "textteacher3": "",
+                "numgen": "61"
+            },
+            {
+                "namegen1": "รัตนภูวดินทร์",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#4D96FF",
+                "textteacher1": "ผรัณชัย - มีชัยชนะไปทั่ว",
+                "textteacher2": "นาถสุรีย์วิภา - มีแสงอาทิตย์เป็นที่พึ่ง",
+                "textteacher3": "",
+                "numgen": "60"
+            },
+            {
+                "namegen1": "สตรอเบอร์รี่ซันเดย์",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FF6B6B",
+                "textteacher1": "พิทยุตม์ - ผู้มีความรู้สูงสุด",
+                "textteacher2": "ปรีย์สุนาเรศ - นางผู้ยิ่งใหญ่ดีงามและเป็นที่รัก",
+                "textteacher3": "",
+                "numgen": "59"
+            },
+            {
+                "namegen1": "บูรพธุวดาร",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FFD93D",
+                "textteacher1": "ศาตนันท์ - มีความสุขและความเพลิดเพลิน",
+                "textteacher2": "พิมพ์ภัทรพร - แบบแห่งความดีงามและสิริมงคล",
+                "textteacher3": "",
+                "numgen": "58"
+            },
+            {
+                "namegen1": "พัชรนิลปัทม์",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#6BCB78",
+                "textteacher1": "อนันยช - เกิดมาเป็นที่หนึ่ง",
+                "textteacher2": "ภิสรินธันญ์ - ร่ำรวยและเป็นใหญ่เหนือผู้อื่น",
+                "textteacher3": "",
+                "numgen": "57"
+            },
+            {
+                "namegen1": "มุกรัตน์ธารา",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#4D96FF",
+                "textteacher1": "อิงครัต – ผู้ยินดีในความรู้",
+                "textteacher2": "มนท์วรัทชา - การสดุดีในสิ่งประเสริฐ",
+                "textteacher3": "",
+                "numgen": "56"
+            },
+            {
+                "namegen1": "กษิรชาด",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FF6B6B",
+                "textteacher1": "กฤตยชญ์ - นักปราชญ์ผู้คงแก่เรียน",
+                "textteacher2": "รัญชน์สุรัตนิ - มีความรู้อันน่าปลาบปลื้มยินดียิ่ง",
+                "textteacher3": "",
+                "numgen": "55"
+            },
+            {
+                "namegen1": "กิตติกวินประภัสศิลป์มธุกร",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FFD93D",
+                "textteacher1": "คณพศ - มีอำนาจในหมู่คณะ",
+                "textteacher2": "วิมลสรากร - สร้างความดีงามและไร้มลทิน",
+                "textteacher3": "อนันยช - เกิดมาเป็นที่หนึ่ง",
+                "numgen": "54"
+            },
+            {
+                "namegen1": "นาคินบดินทร์ ขจรกลิ่น",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#6BCB79",
+                "textteacher1": "ชวกร - ผู้สร้างเชาวน์ ผู้มีเชาวน์",
+                "textteacher2": "ศรีวริทธิ์รดา - มงคลอันประเสริฐและน่ายินดี",
+                "textteacher3": "",
+                "numgen": "53"
+            },
+            {
+                "namegen1": "บูรไพริน หัสดินทร์นราธิป",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#4D96FF",
+                "textteacher1": "ณฏฐพล - กำลังของนักปราชญ์",
+                "textteacher2": "ศรีอักษรินท์ - อักษรอันยิ่งใหญ่และเป็นมงคล",
+                "textteacher3": "",
+                "numgen": "52"
+            },
+            {
+                "namegen1": "รังสิมารุจี นทีคุณารักษ์",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FF6B6B",
+                "textteacher1": "ธนลภย์ - ได้ทรัพย์",
+                "textteacher2": "ศศิเพ็ญชญา - มีความรู้เปี่ยมเต็มดุจพระจันทร์",
+                "textteacher3": "",
+                "numgen": "51"
+            },
+            {
+                "namegen1": "ทศวชิรชลธี",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FFD93D",
+                "textteacher1": "ธรรมปพน - มีคุณธรรมบริสุทธิ์",
+                "textteacher2": "อัจฉรียสา - มียศและสติปัญญาเลิศ",
+                "textteacher3": "",
+                "numgen": "50"
+            },
+            {
+                "namegen1": "วนพิชญภากร",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#6BCB80",
+                "textteacher1": "นฤสรณ์ - เป็นที่พึ่งของคนทั้งหลาย",
+                "textteacher2": "กัญญธนัฏฐ์ - หญิงผู้ร่ำรวย",
+                "textteacher3": "",
+                "numgen": "49"
+            },
+            {
+                "namegen1": "กาญจนกันทร",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#4D96FF",
+                "textteacher1": "วรลภย์ - ผู้มีลาภอันประเสริฐ",
+                "textteacher2": "กาญจน์ณัฏฐา - ปราชญ์ผู้มีค่าดั่งทองคำ",
+                "textteacher3": "",
+                "numgen": "48"
+            },
+            {
+                "namegen1": "วริช ชโลทร",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FF6B6B",
+                "textteacher1": "วฤนท์ธม - มากมายยิ่งใหญ่",
+                "textteacher2": "กาญจน์สิเนห์ - รักใคร่เสน่หาเท่าทองคำ",
+                "textteacher3": "",
+                "numgen": "47"
+            },
+            {
+                "namegen1": "สัตตนิลบุษย์",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FFD93D",
+                "textteacher1": "สรฐชญณ์ - มีความรู้เป็นที่พึ่งอย่างมั่นคง",
+                "textteacher2": "เขษมบุษป์ - เป็นดั่งดอกไม้ที่นำความสบายใจมาให้",
+                "textteacher3": "",
+                "numgen": "46"
+            },
+            {
+                "namegen1": "นรินทราทิตย์",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#6BCB81",
+                "textteacher1": "จรณินทร์ - เป็นใหญ่เพราะความประพฤติดี",
+                "textteacher2": "คุณัญญา - ผู้รู้ธรรม, ผู้รู้ความดี",
+                "textteacher3": "",
+                "numgen": "45"
+            },
+            {
+                "namegen1": "วิลินกร",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#4D96FF",
+                "textteacher1": "จิรัฎฐ์ - ดำรงมั่น อยู่นาน",
+                "textteacher2": "ชนม์ณกานต์ - อายุมั่นและเป็นที่รัก",
+                "textteacher3": "ญานุจจัย - สะสมความรู้ มีความรู้มาก",
+                "numgen": "44"
+            },
+            {
+                "namegen1": "เศวตชาดชลทิศ",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FF6B6B",
+                "textteacher1": "ชิณณวรรธน์ - อยู่กับความเจริญ",
+                "textteacher2": "ธัญนันทน์ณิศา - ยินดีในโชคและความรู้อันยิ่งใหญ่",
+                "textteacher3": "",
+                "numgen": "43"
+            },
+            {
+                "namegen1": "เอกภัทร์ภุมรินทร์",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FFD93D",
+                "textteacher1": "ญานุจจัย - สะสมความรู้ มีความรู้มาก",
+                "textteacher2": "ธิบดิ์ณญานันท์ - ยินดีในความรู้และยิ่งใหญ่",
+                "textteacher3": "",
+                "numgen": "42"
+            },
+            {
+                "namegen1": "ธีรวรการ",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#6BCB82",
+                "textteacher1": "ถิรพุทธิ์ - มีความรู้มั่นคง",
+                "textteacher2": "นภัสชิชญาณ์ - มีความรู้กว้างขวางดั่งท้องฟ้า",
+                "textteacher3": "",
+                "numgen": "41"
+            },
+            {
+                "namegen1": "สัตประพัทธ์",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#4D96FF",
+                "textteacher1": "ทัณฑธร - ผู้พิพากษา",
+                "textteacher2": "พัทธ์ธนามาศ - ผูกพันกับความมั่งคั่งและทองคำ",
+                "textteacher3": "",
+                "numgen": "40"
+            },
+            {
+                "namegen1": "กฤติกา",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FF6B6B",
+                "textteacher1": "ปุณณัตถ์ - สมประสงค์",
+                "textteacher2": "",
+                "textteacher3": "",
+                "numgen": "39"
+            },
+            {
+                "namegen1": "เก็จทรายแก้ว",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FFD93D",
+                "textteacher1": "พฤนท์เดช - มีอำนาจทางทหาร",
+                "textteacher2": "สิฏฐิณิศา - เจ้าแห่งความรู้และความร่ำรวย",
+                "textteacher3": "ปุณณัตถ์ - สมประสงค์",
+                "numgen": "38"
+            },
+            {
+                "namegen1": "เคนกรี",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#6BCB83",
+                "textteacher1": "ภัทรจาริน - มีความประพฤติดี",
+                "textteacher2": "อธิกัญญ์ภัค - หญิงผู้มีโชคยิ่งใหญ่",
+                "textteacher3": "",
+                "numgen": "37"
+            },
+            {
+                "namegen1": "อติทีน",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#4D96FF",
+                "textteacher1": "ฤทธิรณ - ความเก่งกล้าในการรบ",
+                "textteacher2": "อนงค์ศุภิษดา - หญิงผู้งดงามน่าปรารถนา",
+                "textteacher3": "",
+                "numgen": "36"
+            },
+            {
+                "namegen1": "ณัลลกัณฑ์",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FF6B6B",
+                "textteacher1": "วัณณุวรรธน์ - ทางแห่งความเจริญ",
+                "textteacher2": "กรวีร์วิริยา - กล้าหาญในการทำความเพียร",
+                "textteacher3": "",
+                "numgen": "35"
+            },
+            {
+                "namegen1": "พิหเคนทร์",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FFD93D",
+                "textteacher1": "อจลวิชญ์ - มีความรู้ไม่หวั่นไหว",
+                "textteacher2": "กัลญญ์กุลณัช - หญิงที่มีความรู้เชิดชูวงศ์ตระกูล",
+                "textteacher3": "",
+                "numgen": "34"
+            },
+            {
+                "namegen1": "ทวิชากร์",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#6BCB84",
+                "textteacher1": "อติวัณณ์ - การสรรเสริญ ผู้มีตระกูลสูง",
+                "textteacher2": "จิณณ์วรัชญา - มีความรู้ประเสริฐตลอดไป",
+                "textteacher3": "",
+                "numgen": "33"
+            },
+            {
+                "namegen1": "มธุกร",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#4D96FF",
+                "textteacher1": "อติวิชญ์ - นักปราชญ์ผู้ยิ่งใหญ่ ผู้มีตระกูลสูง",
+                "textteacher2": "ฐิยาภัณณ์ - มั่นคงมีความรู้และคำพูดดี",
+                "textteacher3": "",
+                "numgen": "32"
+            },
+            {
+                "namegen1": "นเคศวร",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FF6B6B",
+                "textteacher1": "อัฑฒ์ – ชายผู้ร่ำรวย",
+                "textteacher2": "ปพิชญ์ชฎาพร - มีความรู้และมีพรอันสูงส่ง",
+                "textteacher3": "จรณินทร์ - เป็นใหญ่เพราะความประพฤติดี",
+                "numgen": "31"
+            },
+            {
+                "namegen1": "คฤคาล",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FFD93D",
+                "textteacher1": "คณุฒน์ - ประเสริฐกว่าคนทั้งหลาย",
+                "textteacher2": "ปัญญ์วณิชยา - มีปัญญาด้านการค้าขาย",
+                "textteacher3": "",
+                "numgen": "30"
+            },
+            {
+                "namegen1": "ชฎายุ",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#6BCB85",
+                "textteacher1": "ฐปนวัฒน์ - เจริญอย่างมั่นคง",
+                "textteacher2": "ปัณฑารีย์ - ประเสริฐด้วยปัญญา",
+                "textteacher3": "",
+                "numgen": "29"
+            },
+            {
+                "namegen1": "ภูมรินทร์",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#4D96FF",
+                "textteacher1": "ฐิตธีร์ - ปราชญ์ผุ้มั่นคง",
+                "textteacher2": "ผลัฏฐา - ยินดีในมรรคผล",
+                "textteacher3": "",
+                "numgen": "28"
+            },
+            {
+                "namegen1": "พณิณธร",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FF6B6B",
+                "textteacher1": "ฐิติวัสส์ - ยืนยาวตลอดปี",
+                "textteacher2": "พริฏฐภา - ประเสริฐที่สุด",
+                "textteacher3": "",
+                "numgen": "27"
+            },
+            {
+                "namegen1": "มฤคมาศ",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FFD93D",
+                "textteacher1": "ธุวานันท์ - มีความยินดียั้งยืน มีความสุขยั่งยืน",
+                "textteacher2": "พิชญาภาส์ - แสงสว่างแห่งนักปราชญ์",
+                "textteacher3": "",
+                "numgen": "26"
+            },
+            {
+                "namegen1": "ตฤณสีห์",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#6BCB86",
+                "textteacher1": "นนทิวรรธน์ - ยินดีในทรัพย์",
+                "textteacher2": "พรหมาณฑ์รชา - ดี, เก่ง ในจักรวาล",
+                "textteacher3": "",
+                "numgen": "25"
+            },
+            {
+                "namegen1": "เหมราช",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#4D96FF",
+                "textteacher1": "นัธทวัฒน์ - มีความเจริญเป็นที่มั่นคง",
+                "textteacher2": "ภัคภัสร์ปภา - มีโชคอันรุ่งเรืองงดงาม",
+                "textteacher3": "",
+                "numgen": "24"
+            },
+            {
+                "namegen1": "ฉัททันต์",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FF6B6B",
+                "textteacher1": "ปัณฑ์ธร - ทรงไว้ซึ่งความรู้",
+                "textteacher2": "ภัคศิณีพิชญ์ - มีโชคที่มีความรู้เป็นที่พึ่งแห่งตน",
+                "textteacher3": "",
+                "numgen": "23"
+            },
+            {
+                "namegen1": "บ้วขาว",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FFD93D",
+                "textteacher1": "พิชญุตม์ - ฉลาดและยิ่งใหญ่",
+                "textteacher2": "ภิญญ์สุประภา - ปัญญาดุจดวงอาทิตย์",
+                "textteacher3": "",
+                "numgen": "22"
+            },
+            {
+                "namegen1": "กรกฎ",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#6BCB87",
+                "textteacher1": "พลัฎฐ์ - ตั้งอยู่ในกำลัง ทรงพลัง",
+                "textteacher2": "มณิฐชญาณ์ - มีความรู้ดั่งแก้วมณี",
+                "textteacher3": "",
+                "numgen": "21"
+            },
+            {
+                "namegen1": "นางนวล",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#4D96FF",
+                "textteacher1": "วริทธิ์นันท์ - ยินดีในความสำเร็จอันประเสริฐ",
+                "textteacher2": "วรัชญ์สรากร - ความรู้อันประเสริฐและมีความสามารถดี",
+                "textteacher3": "",
+                "numgen": "20"
+            },
+            {
+                "namegen1": "จามรี",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FF6B6B",
+                "textteacher1": "วเรณย์ - ประเสริฐสุด",
+                "textteacher2": "เสฏฐิกัลยา - หญิงผู้ร่ำรวยดั่งเศรษฐี",
+                "textteacher3": "",
+                "numgen": "19"
+            },
+            {
+                "namegen1": "เสือดาว",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FFD93D",
+                "textteacher1": "อุกฤษฎ์ - ประเสริฐสุด",
+                "textteacher2": "สุภิญญ์ยุพา - ดีงามมีความรู้และแสนสวย",
+                "textteacher3": "",
+                "numgen": "18"
+            },
+            {
+                "namegen1": "หงส์ขาว",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#6BCB88",
+                "textteacher1": "กฤติชยตร์ - การกระทำที่ฉลาด",
+                "textteacher2": "อัฏฐภิญณา - มีความรู้ยิ่ง ๘ ประการ",
+                "textteacher3": "",
+                "numgen": "17"
+            },
+            {
+                "namegen1": "พิราบขาว",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#4D96FF",
+                "textteacher1": "กิตติ์ณัฏฐกร - สร้างความรู้และเกียรติ",
+                "textteacher2": "อรลภัสญา - หญิงผู้มีลาภอันยิ่งใหญ่",
+                "textteacher3": "นัทธ์ธัญธนิน - ผูกพันกับความโชคดีและร่ำรวย",
+                "numgen": "16"
+            },
+            {
+                "namegen1": "เห่าไฟ",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FF6B6B",
+                "textteacher1": "ชัญญากรณัฐ - ปราชญ์ผู้สร้างความรู้",
+                "textteacher2": "อัจฉราภัสส์ - นางฟ้าผู้รุ่งเรือง",
+                "textteacher3": "",
+                "numgen": "15"
+            },
+            {
+                "namegen1": "กระทิงดำ",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FFD93D",
+                "textteacher1": "ชาครีย์สร - ผู้ตื่นและแกล้วกล้า",
+                "textteacher2": "อาฒยวรรณ - มีเชื้อสายของผู้ร่ำรวย, ร่ำรวยด้วยทองคำ",
+                "textteacher3": "",
+                "numgen": "14"
+            },
+            {
+                "namegen1": "เอราวัณ",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#6BCB89",
+                "textteacher1": "ฐานิศวรร์ - มีฐานะอันยิ่งใหญ่",
+                "textteacher2": "กันยากชนันท์ - หญิงผู้ประเสริฐดั่งดอกบัวและมีความยินดี",
+                "textteacher3": "",
+                "numgen": "13"
+            },
+            {
+                "namegen1": "ยุงทอง",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#4D96FF",
+                "textteacher1": "ฐิรชาติศักดิ์ - เกิดมามียศศักดิ์มั่นคง",
+                "textteacher2": "กิริฎา - มงกุฎ",
+                "textteacher3": "",
+                "numgen": "12"
+            },
+            {
+                "namegen1": "จงอางขาว",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FF6B6B",
+                "textteacher1": "ณรงค์คณินทร์ - เป็นใหญ่เหนือหมู่คณะในการรบ",
+                "textteacher2": "จงกลณัฐชาดา - ปราชญ์ผู้รุ่งเรืองและประเสริฐดังดอกบัว",
+                "textteacher3": "",
+                "numgen": "11"
+            },
+            {
+                "namegen1": "พยัคฆราช",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FFD93D",
+                "textteacher1": "ณัฏฐ์ณชัย - ที่ซึ่งมีแต่ชัยชนะและความรู้",
+                "textteacher2": "จิรณัฏฐา - ปราชญ์ผู้ยั่งยืน",
+                "textteacher3": "",
+                "numgen": "10"
+            },
+            {
+                "namegen1": "อินทรีผงาด",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#6BCB90",
+                "textteacher1": "ณัฏฐ์ธนัญ - ปราชญ์ผู้มีทรัพย์และอื่นๆ",
+                "textteacher2": "ฉัตริยาฐิดา - เป็นฉัตรแห่งความมั่นคง",
+                "textteacher3": "",
+                "numgen": "9"
+            },
+            {
+                "namegen1": "สิงห์ผยอง",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#4D96FF",
+                "textteacher1": "นัทธ์ธัญธนิน - ผูกพันกับความโชคดีและร่ำรวย",
+                "textteacher2": "ชญาณ์นิษฏ์ - ปราถนาเรื่องความรู้",
+                "textteacher3": "",
+                "numgen": "8"
+            },
+            {
+                "namegen1": "ผึ้งหลวง",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FF6B6B",
+                "textteacher1": "เทวทิณณ์ - เทพประทาน",
+                "textteacher2": "ณัฑธัญวรรณ - ผิวพรรณดีมีโชคและฉลาด",
+                "textteacher3": "",
+                "numgen": "7"
+            },
+            {
+                "namegen1": "มดทอง",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FFD93D",
+                "textteacher1": "ธีร์ธัญนนท์ - ปราชญ์ผู้มีโชคและความยินดี",
+                "textteacher2": "ธัญณิชชวีร์ - มีโชคความรู้และกล้าหาญ",
+                "textteacher3": "",
+                "numgen": "6"
+            },
+            {
+                "namegen1": "ฉลามขาว",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#6BCB91",
+                "textteacher1": "ธีร์สิรธนัศ - ปราชญ์ผู้เป็นยอดและเป็นเจ้าแห่งทรัพย์",
+                "textteacher2": "นิษฐาชญาณ์ - สนใจใคร่รู้อยู่เสมอ",
+                "textteacher3": "",
+                "numgen": "5"
+            },
+            {
+                "namegen1": "ช้างผงาด",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#4D96FF",
+                "textteacher1": "รดิศไชยนันท์ - ยินดีมีความเจริญกว่าและเป็นเจ้าแห่งทรัพย์",
+                "textteacher2": "รดานันท์วิลาส - ยินดีมีสุขและงดงาม",
+                "textteacher3": "",
+                "numgen": "4"
+            },
+            {
+                "namegen1": "อรชร",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FF6B6B",
+                "textteacher1": "วัสยษฏิ์ - ถึงซึ่งความเป็นอยู่อันดี",
+                "textteacher2": "วิทวลา - ฉลาด",
+                "textteacher3": "",
+                "numgen": "3"
+            },
+            {
+                "namegen1": "ศรอนงค์",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#FFD93D",
+                "textteacher1": "กฤชฐารวี - มีอาวุธที่มั่นคงดั่งพระอาทิตย์",
+                "textteacher2": "ไวชญานีก์ - อุดมด้วยความรู้",
+                "textteacher3": "",
+                "numgen": "2"
+            },
+            {
+                "namegen1": "ม้าสีหมอก",
+                "namegen2": "name faculty",
+                "namegen3": "name department",
+                "colorgen": "#8B8B8B",
+                "textteacher1": "กฤษฎาภาส - การกระทำที่รุ่งเรือง",
+                "textteacher2": "สิรินธิบดิ์ชญา - มีมงคลเป็นใหญ่และมีความรู้",
+                "textteacher3": "",
+                "numgen": "1"
+            }
+        ]
+    }
+}

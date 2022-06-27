@@ -1,0 +1,19 @@
+{
+    "head": {
+        "status": "200",
+        "message": "success",
+        "modulename": "login"
+    },
+    "body": {
+        "screeninfo": {
+            "btnchangelang": "TH / EN",
+            "imglogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Buu-logo11.png/130px-Buu-logo11.png",
+            "edtID": "Student code / Teacher code",
+            "edtpass": "Password",
+            "btnlogin": "LOGIN",
+            "btnforgotpass": "Forgot password ?",
+            "textreg": "Don't have an account ?",
+            "btnReg": "Register"
+        }
+    }
+  }

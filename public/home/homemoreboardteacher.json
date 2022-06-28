@@ -20,84 +20,84 @@
         "teacher": {
                 "teacherone":[
                     {
-                        "name": "กฤษฎาภาส - การกระทำที่รุ่งเรือง",
+                        "name": "1กฤษฎาภาส - การกระทำที่รุ่งเรือง",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition1@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name": "สิรินธิบดิ์ชญา - มีมงคลเป็นใหญ่และมีความรู้",
+                        "name": "2สิรินธิบดิ์ชญา - มีมงคลเป็นใหญ่และมีความรู้",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition2@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name": "กฤษฎาภาส - การกระทำที่รุ่งเรือง",
+                        "name": "3กฤษฎาภาส - การกระทำที่รุ่งเรือง",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition1@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name": "สิรินธิบดิ์ชญา - มีมงคลเป็นใหญ่และมีความรู้",
+                        "name": "4สิรินธิบดิ์ชญา - มีมงคลเป็นใหญ่และมีความรู้",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition2@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name": "กฤษฎาภาส - การกระทำที่รุ่งเรือง",
+                        "name": "5กฤษฎาภาส - การกระทำที่รุ่งเรือง",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition1@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name": "สิรินธิบดิ์ชญา - มีมงคลเป็นใหญ่และมีความรู้",
+                        "name": "6สิรินธิบดิ์ชญา - มีมงคลเป็นใหญ่และมีความรู้",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition2@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name": "กฤษฎาภาส - การกระทำที่รุ่งเรือง",
+                        "name": "7กฤษฎาภาส - การกระทำที่รุ่งเรือง",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition1@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name": "สิรินธิบดิ์ชญา - มีมงคลเป็นใหญ่และมีความรู้",
+                        "name": "8สิรินธิบดิ์ชญา - มีมงคลเป็นใหญ่และมีความรู้",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition2@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name": "ณัฏฐ์ธนัญ - ปราชญ์ผู้มีทรัพย์และอื่นๆง",
+                        "name": "9ณัฏฐ์ธนัญ - ปราชญ์ผู้มีทรัพย์และอื่นๆง",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition1@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name": "นัทธ์ธัญธนิน - ผูกพันกับความโชคดีและร่ำรวย",
+                        "name": "10นัทธ์ธัญธนิน - ผูกพันกับความโชคดีและร่ำรวย",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition2@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name": "กฤษฎาภาส - การกระทำที่รุ่งเรือง",
+                        "name": "11กฤษฎาภาส - การกระทำที่รุ่งเรือง",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition1@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name": "สิรินธิบดิ์ชญา - มีมงคลเป็นใหญ่และมีความรู้",
+                        "name": "12สิรินธิบดิ์ชญา - มีมงคลเป็นใหญ่และมีความรู้",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition2@go.buu.ac.th",
@@ -106,84 +106,84 @@
                 ], 
                 "teachertwo":[
                     {
-                        "name": "stats กฤษฎาภาส - การกระทำที่รุ่งเรือง",
+                        "name": "1stats กฤษฎาภาส - การกระทำที่รุ่งเรือง",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition1@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name":"stats สิรินธิบดิ์ชญา - มีมงคลเป็นใหญ่และมีความรู้",
+                        "name":"2stats สิรินธิบดิ์ชญา - มีมงคลเป็นใหญ่และมีความรู้",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition2@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name": "stats กฤษฎาภาส - การกระทำที่รุ่งเรือง",
+                        "name": "3stats กฤษฎาภาส - การกระทำที่รุ่งเรือง",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition1@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name":"stats สิรินธิบดิ์ชญา - มีมงคลเป็นใหญ่และมีความรู้",
+                        "name":"4stats สิรินธิบดิ์ชญา - มีมงคลเป็นใหญ่และมีความรู้",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition2@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name":"stats กฤษฎาภาส - การกระทำที่รุ่งเรือง",
+                        "name":"5stats กฤษฎาภาส - การกระทำที่รุ่งเรือง",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition1@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name":"stats สิรินธิบดิ์ชญา - มีมงคลเป็นใหญ่และมีความรู้",
+                        "name":"6stats สิรินธิบดิ์ชญา - มีมงคลเป็นใหญ่และมีความรู้",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition2@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name":"stats กฤษฎาภาส - การกระทำที่รุ่งเรือง",
+                        "name":"7stats กฤษฎาภาส - การกระทำที่รุ่งเรือง",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition1@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name":"stats สิรินธิบดิ์ชญา - มีมงคลเป็นใหญ่และมีความรู้",
+                        "name":"8stats สิรินธิบดิ์ชญา - มีมงคลเป็นใหญ่และมีความรู้",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition2@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name":"stats ณัฏฐ์ธนัญ - ปราชญ์ผู้มีทรัพย์และอื่นๆง",
+                        "name":"9stats ณัฏฐ์ธนัญ - ปราชญ์ผู้มีทรัพย์และอื่นๆง",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition1@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name":"stats นัทธ์ธัญธนิน - ผูกพันกับความโชคดีและร่ำรวย",
+                        "name":"10stats นัทธ์ธัญธนิน - ผูกพันกับความโชคดีและร่ำรวย",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition2@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name":"stats กฤษฎาภาส - การกระทำที่รุ่งเรือง",
+                        "name":"11stats กฤษฎาภาส - การกระทำที่รุ่งเรือง",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition1@go.buu.ac.th",
                         "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
                     },
                     {
-                        "name":"stats สิรินธิบดิ์ชญา - มีมงคลเป็นใหญ่และมีความรู้",
+                        "name":"12stats สิรินธิบดิ์ชญา - มีมงคลเป็นใหญ่และมีความรู้",
                         "position": "professor",
                         "phone": "098-765-4321",
                         "email": "Emailnameposition2@go.buu.ac.th",
@@ -193,14 +193,28 @@
         },
         "staff": [
             {
-                "name": "เทวทิณณ์ - เทพประทาน",
+                "name": "1staffเทวทิณณ์ - เทพประทาน",
                 "position": "professor",
                 "phone": "098-765-4321",
                 "email": "Emailnameposition1@go.buu.ac.th",
                 "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
             },
             {
-                "name": "กฤชฐารวี - มีอาวุธที่มั่นคงดั่งพระอาทิตย์",
+                "name": "2staffกฤชฐารวี - มีอาวุธที่มั่นคงดั่งพระอาทิตย์",
+                "position": "professor",
+                "phone": "098-765-4321",
+                "email": "Emailnameposition2@go.buu.ac.th",
+                "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
+            },
+            {
+                "name": "1staffเทวทิณณ์ - เทพประทาน",
+                "position": "professor",
+                "phone": "098-765-4321",
+                "email": "Emailnameposition1@go.buu.ac.th",
+                "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
+            },
+            {
+                "name": "2staffกฤชฐารวี - มีอาวุธที่มั่นคงดั่งพระอาทิตย์",
                 "position": "professor",
                 "phone": "098-765-4321",
                 "email": "Emailnameposition2@go.buu.ac.th",

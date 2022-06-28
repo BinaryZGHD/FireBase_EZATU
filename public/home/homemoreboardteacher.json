@@ -205,20 +205,6 @@
                 "phone": "098-765-4321",
                 "email": "Emailnameposition2@go.buu.ac.th",
                 "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
-            },
-            {
-                "name": "1staffเทวทิณณ์ - เทพประทาน",
-                "position": "professor",
-                "phone": "098-765-4321",
-                "email": "Emailnameposition1@go.buu.ac.th",
-                "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
-            },
-            {
-                "name": "2staffกฤชฐารวี - มีอาวุธที่มั่นคงดั่งพระอาทิตย์",
-                "position": "professor",
-                "phone": "098-765-4321",
-                "email": "Emailnameposition2@go.buu.ac.th",
-                "img_teacher" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOaaBAY_yOcJXbL4jW0I_Y5sePbzagqN2aA&usqp=CAU"
             }
         ]
     }

@@ -43,69 +43,69 @@
             "textunemp": "Unemployed",
             "textfustud": "Futher study",
             "textstudying": "Studying",
-            "textstatus": "Status",
-            "profile_career_screeninfo": {
-                "attention": [
-                    {
-                        "attenname": "อื่นๆ"
-                    },
-                    {
-                        "attenname": "คอมพิวเตอร์ "
-                    },
-                    {
-                        "attenname": "ครู"
-                    },
-                    {
-                        "attenname": "ประกันภัย"
-                    },
-                    {
-                        "attenname": "สถิติ"
-                    },
-                    {
-                        "attenname": "ค้าขาย"
-                    },
-                    {
-                        "attenname": "อื่นๆ ครับ"
-                    }
-                ],
-                "status": [
-                    {
-                        "statusname": "อื่นๆ"
-                    },
-                    {
-                        "statusname": "ศึกษาต่อ"
-                    },
-                    {
-                        "statusname": "ว่างงาน"
-                    },
-                    {
-                        "statusname": "มีงานทำ"
-                    },
-                    {
-                        "statusname": "กำลังจะมีงานทำ"
-                    },
-                    {
-                        "statusname": "อื่นๆ ครับครับ"
-                    }
-                ],
-                "jobtype": [
-                    {
-                        "jobname": "0"
-                    },
-                    {
-                        "jobname": "1"
-                    },
-                    {
-                        "jobname": "2"
-                    },
-                    {
-                        "jobname": "อื่นๆ"
-                    },
-                    {
-                        "jobname": "อื่นๆ ครับครับครับ"
-                    }
-                ]
-            }
+            "textstatus": "Status"
+        },
+        "profile_career_screeninfo": {
+            "attention": [
+                {
+                    "attenname": "อื่นๆ"
+                },
+                {
+                    "attenname": "คอมพิวเตอร์ "
+                },
+                {
+                    "attenname": "ครู"
+                },
+                {
+                    "attenname": "ประกันภัย"
+                },
+                {
+                    "attenname": "สถิติ"
+                },
+                {
+                    "attenname": "ค้าขาย"
+                },
+                {
+                    "attenname": "อื่นๆ ครับ"
+                }
+            ],
+            "status": [
+                {
+                    "statusname": "อื่นๆ"
+                },
+                {
+                    "statusname": "ศึกษาต่อ"
+                },
+                {
+                    "statusname": "ว่างงาน"
+                },
+                {
+                    "statusname": "มีงานทำ"
+                },
+                {
+                    "statusname": "กำลังจะมีงานทำ"
+                },
+                {
+                    "statusname": "อื่นๆ ครับครับ"
+                }
+            ],
+            "jobtype": [
+                {
+                    "jobname": "0"
+                },
+                {
+                    "jobname": "1"
+                },
+                {
+                    "jobname": "2"
+                },
+                {
+                    "jobname": "อื่นๆ"
+                },
+                {
+                    "jobname": "อื่นๆ ครับครับครับ"
+                }
+            ]
         },
         "profile_general_info": {
             "name": "คณิศาสตร์",

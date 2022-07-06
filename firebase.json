@@ -12,6 +12,14 @@
         "destination": "/index.html"
       },
       {
+        "source": "/apis",
+        "destination": "/APIs.html"
+      },
+      {
+        "source": "/IIS",
+        "destination": "/IIS.html"
+      },
+      {
         "source": "/v1/api/modules/login/wording/login",
         "destination": "/login/loginwording.json"
       },

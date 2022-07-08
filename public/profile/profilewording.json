@@ -38,11 +38,7 @@
             "textcomp": "Company",
             "textatt": "Attention",
             "textcareer": "Career",
-            "textJobtype": "Job type ",
-            "textemp": "Employed",
-            "textunemp": "Unemployed",
-            "textfustud": "Futher study",
-            "textstudying": "Studying",
+            "textjobtype": "Job type",
             "textstatus": "Status"
         },
        

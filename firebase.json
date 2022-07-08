@@ -60,6 +60,10 @@
         "source": "/v1/api/modules/home/more/data/boardteacher",
         "destination": "/home/homemoreboardteacher.json"
       },
+      {
+        "source": "/v1/api/modules/home/more/faq",
+        "destination": "/home/faq.json"
+      },
 
       {
         "source": "/v1/api/modules/activity/wording/add_edit_activity",

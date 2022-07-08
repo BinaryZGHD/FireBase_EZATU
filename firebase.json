@@ -83,15 +83,15 @@
         "destination": "/profile/editeducation.json"
       },
       {
-        "source": "/v1/api/modules/profile/wording/editaddress",
+        "source": "/v1/api/modules/profile/editaddress",
         "destination": "/profile/editaddress.json"
       },
       {
-        "source": "/v1/api/modules/profile/wording/editcontact",
+        "source": "/v1/api/modules/profile/editcontact",
         "destination": "/profile/editcontact.json"
       },
       {
-        "source": "/v1/api/modules/profile/wording/editcareer",
+        "source": "/v1/api/modules/profile/editcareer",
         "destination": "/profile/editcareer.json"
       }
 

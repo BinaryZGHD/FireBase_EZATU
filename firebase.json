@@ -93,6 +93,26 @@
       {
         "source": "/v1/api/modules/profile/wording/editcareer",
         "destination": "/profile/editcareer.json"
+      },
+      {
+        "source": "/v1/api/modules/profile/editgeneral",
+        "destination": "/profile/editgeneral.json"
+      },
+      {
+        "source": "/v1/api/modules/profile/editeducation",
+        "destination": "/profile/editeducation.json"
+      },
+      {
+        "source": "/v1/api/modules/profile/editaddress",
+        "destination": "/profile/editaddress.json"
+      },
+      {
+        "source": "/v1/api/modules/profile/editcontact",
+        "destination": "/profile/editcontact.json"
+      },
+      {
+        "source": "/v1/api/modules/profile/editcareer",
+        "destination": "/profile/editcareer.json"
       }
 
 

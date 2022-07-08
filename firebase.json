@@ -75,8 +75,24 @@
         "destination": "/activity/activitystatuswording.json"
       },
       {
-        "source": "/v1/api/modules/profile/wording/profile",
-        "destination": "/profile/profilewording.json"
+        "source": "/v1/api/modules/profile/editgeneral",
+        "destination": "/profile/editgeneral.json"
+      },
+      {
+        "source": "/v1/api/modules/profile/editeducation",
+        "destination": "/profile/editeducation.json"
+      },
+      {
+        "source": "/v1/api/modules/profile/wording/editaddress",
+        "destination": "/profile/editaddress.json"
+      },
+      {
+        "source": "/v1/api/modules/profile/wording/editcontact",
+        "destination": "/profile/editcontact.json"
+      },
+      {
+        "source": "/v1/api/modules/profile/wording/editcareer",
+        "destination": "/profile/editcareer.json"
       }
 
 

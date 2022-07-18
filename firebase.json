@@ -20,6 +20,22 @@
         "destination": "/IIS.html"
       },
       {
+        "source": "/Alert",
+        "destination": "/Alert.html"
+      },
+      {
+        "source": "/alert/logout",
+        "destination": "/dialogs/logout.json"
+      },
+      {
+        "source": "/alert/deleteaccount",
+        "destination": "/dialogs/deleteaccount.json"
+      },
+      {
+        "source": "/response",
+        "destination": "/response.json"
+      },
+      {
         "source": "/v1/api/modules/login/wording/login",
         "destination": "/login/loginwording.json"
       },

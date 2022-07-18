@@ -26,7 +26,7 @@
                 "textno": "No"
             },
             "screenhome": {
-                "titlestatus": "กิจกกรมของฉัน",
+                "titlestatus": "My activity",
                 "textactivity": "Activity name",
                 "textyear": "Year",
                 "textterm": "Term",
@@ -38,19 +38,19 @@
                 "edtapprover": "Approver",
                 "textdetail": "Detail",
                 "btnadd": "ADD",
-                "textname": "ชื่อ-นามสกุล",
-                "textnickname": "ชื่อเล่น",
-                "textgen": "รุ่น",
-                "textstdcode": "รหัสนิสิต",
-                "textemail": "อีเมล",
-                "textrole": "ประเภทผู้ใช้งาน",
-                "textlang": "ภาษา",
+                "textname": "Name",
+                "textnickname": "Nickname",
+                "textgen": "Gen.",
+                "textstdcode": "Student code",
+                "textemail": "Email",
+                "textrole": "Role",
+                "textlang": "Language",
                 "textlangdetail": "Thai",
-                "textstdtc": "นิสิต",
-                "btncpass": "เปลี่ยนรหัสผ่าน",
-                "btndelacc": "ลบบัญชีผู้ใช้",
-                "textappver": "แอปพลิเคชั่นเวอร์ชั่น",
-                "btnlogout": "ออกจากระบบ"
+                "textstdtc": "Student / Teacher",
+                "btncpass": "Change password",
+                "btndelacc": "Delete account",
+                "textappver": "Application version",
+                "btnlogout": "Logout"
     
             }
         },

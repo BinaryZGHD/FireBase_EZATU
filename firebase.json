@@ -32,6 +32,10 @@
         "destination": "/dialogs/deleteaccount.json"
       },
       {
+        "source": "/alert/noactivity",
+        "destination": "/dialogs/noActivity.json"
+      },
+      {
         "source": "/response",
         "destination": "/response.json"
       },

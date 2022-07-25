@@ -1,0 +1,63 @@
+{
+    "head": {
+        "status": 200,
+        "message": "success",
+        "module": "home"
+    },
+    "body": {
+        "screenInfo": {
+            "screenmore": {
+                "textmore": "More",
+                "textboard": "Board",
+                "btnstd": "Student",
+                "btntc": "Teacher",
+                "textabdepart": "About department",
+                "btndeparthis": "Department history",
+                "btncou": "Course",
+                "btnface": "Facebook",
+                "btnweb": "Website",
+                "textsup": "Support",
+                "btntermandcon": "Terms and conditions",
+                "btnfaq": "Frequently Asked Questions ",
+                "btnconus": " Contact us",
+                "texturgo2": "You are going to",
+                "textright": "right ?",
+                "textyes": "Yes",
+                "textno": "No"
+            },
+            "screenhome": {
+                "titlestatus": "My activity",
+                "textactivity": "Activity name",
+                "textyear": "Year",
+                "textterm": "Term",
+                "textstartdate": "Start date",
+                "textfinishdate": "Finish date",
+                "texttime": "Total time",
+                "texttimestatus": "( Hr : min )",
+                "textvenue": "Venue",
+                "edtapprover": "Approver",
+                "textdetail": "Detail",
+                "btnadd": "ADD",
+                "textname": "Name",
+                "textnickname": "Nickname",
+                "textgen": "Gen.",
+                "textstdcode": "Student code",
+                "textemail": "Email",
+                "textrole": "Role",
+                "textlang": "Language",
+                "textlangdetail": "Thai",
+                "textstdtc": "Student / Teacher",
+                "btncpass": "Change password",
+                "btndelacc": "Delete account",
+                "textappver": "Application version",
+                "btnlogout": "Logout"
+    
+            }
+        },
+        "pavat_url": "https://math.buu.ac.th/history/frontend/index",
+        "luksuit_url": "https://math.buu.ac.th/course/frontend/index",
+        "facebook_url": "https://www.facebook.com/SciMathBUU",
+        "website_url": "https://math.buu.ac.th/",
+        "vs": "1.0.0.0 Beta"
+    }
+}

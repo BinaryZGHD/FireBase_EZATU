@@ -1,0 +1,32 @@
+{
+    "head": {
+        "status": 200,
+        "message": "success",
+        "module": "home"
+    },
+    "body": {
+        "screenInfo":{
+            "textmore": "เพิ่มเติม",
+            "textboard": "ทำเนียบ",
+            "btnstd": "นิสิต",
+            "btntc": "อาจารย์",
+            "textabdepart": "เกี่ยวกับภาควิชา",
+            "btndeparthis": "ประวัติภาควิชา",
+            "btncou": "หลักสูตร",
+            "btnface": "เฟสบุ๊ค",
+            "btnweb": "เว็บไซต์",
+            "textsup": "สนับสนุน",
+            "btntermandcon": "เงื่อนไขและข้อตกลง",
+            "btnfaq": "คำถามที่พบบ่อย ",
+            "btnconus": "ติดต่อเรา",
+            "texturgo2": "You are going to",
+            "textright": "right ?",
+            "textyes": "Yes",
+            "textno": "No"
+        },
+        "pavat_url": "https://math.buu.ac.th/history/frontend/index",
+        "luksuit_url": "https://math.buu.ac.th/course/frontend/index",
+        "facebook_url": "https://www.facebook.com/SciMathBUU",
+        "website_url": "https://math.buu.ac.th/"
+    }
+}

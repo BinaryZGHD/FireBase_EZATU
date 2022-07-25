@@ -39,6 +39,7 @@
         "source": "/response",
         "destination": "/response.json"
       },
+      
       {
         "source": "/v1/api/modules/login/wording/login",
         "destination": "/login/loginwording.json"
@@ -59,7 +60,14 @@
         "source": "/v1/api/modules/login/wording/PDPA",
         "destination": "/login/PDPAWording.Json"
       },
-
+      {
+        "source": "/v1/api/modules/home/home",
+        "destination": "/home/home.json"
+      },
+      {
+        "source": "/v1/api/modules/home/more",
+        "destination": "/home/more.json"
+      },
       {
         "source": "/v1/api/modules/home/wording/homemore",
         "destination": "/home/homemorewording.json"

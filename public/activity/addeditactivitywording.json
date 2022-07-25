@@ -6,17 +6,18 @@
     },
     "body": {
         "screeninfo": {
-            "Titleaddact": "Add activity",
-            "Titleeditact": "Edit activity",
-            "Edtactname": "Activity name / Project name",
-            "Edtyear": "Year",
-            "Edtterm": "Term",
-            "Edtstartdate": "Start date",
-            "Edtfinishdate": "Finish date",
-            "Edttime": "Total time(Hours)",
-            "Edttvenue": "Venue",
-            "Edtdetail": "Detail",
-            "Btnconfirm": "Confirm"
+            "titleaddact": "Add activity",
+            "titleeditact": "Edit activity",
+            "edtactname": "Activity name / Project name",
+            "edtyear": "Year",
+            "edtterm": "Term",
+            "edtstartdate": "Start date",
+            "edtfinishdate": "Finish date",
+            "edttime": "Total time(Hours)",
+            "edttvenue": "Venue",
+            "edtapprover": "Approver",
+            "edtdetail": "Detail",
+            "btnconfirm": "Confirm"
         },
         "yearlist": [
             "2015",

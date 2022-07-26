@@ -65,6 +65,10 @@
         "destination": "/home/home.json"
       },
       {
+        "source": "/image",
+        "destination": "/img.html"
+      },
+      {
         "source": "/v1/api/modules/home/more",
         "destination": "/home/more.json"
       },

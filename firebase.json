@@ -133,8 +133,11 @@
       {
         "source": "/v1/api/modules/profile/editcareer",
         "destination": "/profile/editcareer.json"
+      },
+      {
+        "source": "/pdpa",
+        "destination": "/pdpa#1.pdf"
       }
-
 
     ]
   }

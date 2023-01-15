@@ -137,7 +137,12 @@
       {
         "source": "/pdpa",
         "destination": "/pdpa#1.pdf"
+      },
+      {
+        "source": "/pdpa/ez@u/release",
+        "destination": "/pdpaEZ@U#1.0.1.pdf"
       }
+
 
     ]
   }

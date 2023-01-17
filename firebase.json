@@ -141,6 +141,14 @@
       {
         "source": "/pdpa/ez@u/release",
         "destination": "/pdpaEZ@U#1.0.1.pdf"
+      },
+      {
+        "source": "/pdpa/ez@u/release/b",
+        "destination": "/pdpaEZ@U#1.0.1.black.pdf"
+      },
+      {
+        "source": "/pdpa/ez@u/release/w",
+        "destination": "/pdpaEZ@U#1.0.1.white.pdf"
       }
 
 

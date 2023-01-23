@@ -148,6 +148,10 @@
         "destination": "/resume2.html"
       },
       {
+        "source": "/resume/by/chin/new",
+        "destination": "/resume3.html"
+      },
+      {
         "source": "/pdpa/ez@u/release",
         "destination": "/pdpaEZ@U#1.0.1.pdf"
       },

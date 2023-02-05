@@ -27,6 +27,11 @@
         "source": "/alert/logout",
         "destination": "/dialogs/logout.json"
       },
+      
+      {
+        "source": "/resume/by/chin",
+        "destination": "/resume.html"
+      },
       {
         "source": "/alert/deleteaccount",
         "destination": "/dialogs/deleteaccount.json"
@@ -137,6 +142,14 @@
       {
         "source": "/pdpa",
         "destination": "/pdpa#1.pdf"
+      },
+      {
+        "source": "/resume/chin2",
+        "destination": "/resume2.html"
+      },
+      {
+        "source": "/resume/by/chin/new",
+        "destination": "/resume3.html"
       },
       {
         "source": "/pdpa/ez@u/release",

@@ -49,7 +49,7 @@
     "body": {
         "label": {
             "label_home": "Home",
-            "label_chart": "Home",
+            "label_chart": "Chart",
             "label_like": "Like",
             "label_search": "Search",
             "label_myhappysalary": "My Happy Salary",
@@ -61,7 +61,7 @@
             "label_currency": "THB",
             "label_showall": "Show All",
             "symbol_currency": "th_TH",
-            "formate_country": "en_US",
+            "formate_country": "th_TH",
             "language": "th_TH"
         },
         "payloadData": {
@@ -97,36 +97,43 @@
                     "tran_id": 1,
                     "start_date": "2023-01-02 09:32:00",
                     "amount": 182.01,
-                    "income": true,
-                    "description": "รายการธุรกรรม"
+                    "income": false,
+                    "description": "ค่าถ่ายเอกสาร"
                 },
                 {
                     "tran_id": 2,
                     "start_date": "2023-01-02 09:32:00",
                     "amount": 282.01,
                     "income": true,
-                    "description": "รายการธุรกรรม"
+                    "description": "ค่าเข้าเล่มโปรเจ็ค"
                 },
                 {
                     "tran_id": 3,
                     "start_date": "2023-01-02 09:32:00",
-                    "amount": 3382.01,
-                    "income": true,
-                    "description": "รายการธุรกรรม"
+                    "amount": 382.01,
+                    "income": false,
+                    "description": "ค่าชาบู"
                 },
                 {
                     "tran_id": 4,
                     "start_date": "2023-01-02 09:32:00",
                     "amount": 482.01,
                     "income": true,
-                    "description": "รายการธุรกรรม"
+                    "description": "ค่าตัดต่องาน"
                 },
                 {
                     "tran_id": 5,
                     "start_date": "2023-01-02 09:32:00",
                     "amount": 582.01,
+                    "income": false,
+                    "description": "ค่าประกันภัยรถยนต์"
+                },
+                {
+                    "tran_id": 7,
+                    "start_date": "2023-01-02 09:32:00",
+                    "amount": 3382.01,
                     "income": true,
-                    "description": "รายการธุรกรรม"
+                    "description": "ค่านำมันรถยนต์"
                 }
             ],
             "weeklyTransaction": [
@@ -134,49 +141,49 @@
                     "tran_id": 1,
                     "start_date": "2023-01-02 09:32:00",
                     "amount": 182.01,
-                    "income": true,
-                    "description": "รายการธุรกรรม"
+                    "income": false,
+                    "description": "ค่าถ่ายเอกสาร"
                 },
                 {
                     "tran_id": 2,
                     "start_date": "2023-01-02 09:32:00",
                     "amount": 282.01,
                     "income": true,
-                    "description": "รายการธุรกรรม"
+                    "description": "ค่าเข้าเล่มโปรเจ็ค"
                 },
                 {
                     "tran_id": 3,
                     "start_date": "2023-01-02 09:32:00",
-                    "amount": 3382.01,
-                    "income": true,
-                    "description": "รายการธุรกรรม"
+                    "amount": 382.01,
+                    "income": false,
+                    "description": "ค่าชาบู"
                 },
                 {
                     "tran_id": 4,
                     "start_date": "2023-01-02 09:32:00",
                     "amount": 482.01,
                     "income": true,
-                    "description": "รายการธุรกรรม"
+                    "description": "ค่าตัดต่องาน"
                 },
                 {
                     "tran_id": 5,
                     "start_date": "2023-01-02 09:32:00",
                     "amount": 582.01,
-                    "income": true,
-                    "description": "รายการธุรกรรม"
+                    "income": false,
+                    "description": "ค่าประกันภัยรถยนต์"
                 },
                 {
                     "tran_id": 7,
                     "start_date": "2023-01-02 09:32:00",
                     "amount": 3382.01,
                     "income": true,
-                    "description": "รายการธุรกรรม"
+                    "description": "ค่านำมันรถยนต์"
                 },
                 {
                     "tran_id": 8,
                     "start_date": "2023-01-02 09:32:00",
                     "amount": 482.01,
-                    "income": true,
+                    "income": false,
                     "description": "รายการธุรกรรม"
                 },
                 {
@@ -192,43 +199,43 @@
                     "tran_id": 1,
                     "start_date": "2023-01-02 09:32:00",
                     "amount": 182.01,
-                    "income": true,
-                    "description": "รายการธุรกรรม"
+                    "income": false,
+                    "description": "ค่าถ่ายเอกสาร"
                 },
                 {
                     "tran_id": 2,
                     "start_date": "2023-01-02 09:32:00",
                     "amount": 282.01,
                     "income": true,
-                    "description": "รายการธุรกรรม"
+                    "description": "ค่าเข้าเล่มโปรเจ็ค"
                 },
                 {
                     "tran_id": 3,
                     "start_date": "2023-01-02 09:32:00",
-                    "amount": 3382.01,
-                    "income": true,
-                    "description": "รายการธุรกรรม"
+                    "amount": 382.01,
+                    "income": false,
+                    "description": "ค่าชาบู"
                 },
                 {
                     "tran_id": 4,
                     "start_date": "2023-01-02 09:32:00",
                     "amount": 482.01,
                     "income": true,
-                    "description": "รายการธุรกรรม"
+                    "description": "ค่าตัดต่องาน"
                 },
                 {
                     "tran_id": 5,
                     "start_date": "2023-01-02 09:32:00",
                     "amount": 582.01,
-                    "income": true,
-                    "description": "รายการธุรกรรม"
+                    "income": false,
+                    "description": "ค่าประกันภัยรถยนต์"
                 },
                 {
                     "tran_id": 7,
                     "start_date": "2023-01-02 09:32:00",
                     "amount": 3382.01,
                     "income": true,
-                    "description": "รายการธุรกรรม"
+                    "description": "ค่านำมันรถยนต์"
                 },
                 {
                     "tran_id": 8,
@@ -264,43 +271,43 @@
                     "tran_id": 1,
                     "start_date": "2023-01-02 09:32:00",
                     "amount": 182.01,
-                    "income": true,
-                    "description": "รายการธุรกรรม"
+                    "income": false,
+                    "description": "ค่าถ่ายเอกสาร"
                 },
                 {
                     "tran_id": 2,
                     "start_date": "2023-01-02 09:32:00",
                     "amount": 282.01,
                     "income": true,
-                    "description": "รายการธุรกรรม"
+                    "description": "ค่าเข้าเล่มโปรเจ็ค"
                 },
                 {
                     "tran_id": 3,
                     "start_date": "2023-01-02 09:32:00",
-                    "amount": 3382.01,
-                    "income": true,
-                    "description": "รายการธุรกรรม"
+                    "amount": 382.01,
+                    "income": false,
+                    "description": "ค่าชาบู"
                 },
                 {
                     "tran_id": 4,
                     "start_date": "2023-01-02 09:32:00",
                     "amount": 482.01,
                     "income": true,
-                    "description": "รายการธุรกรรม"
+                    "description": "ค่าตัดต่องาน"
                 },
                 {
                     "tran_id": 5,
                     "start_date": "2023-01-02 09:32:00",
                     "amount": 582.01,
-                    "income": true,
-                    "description": "รายการธุรกรรม"
+                    "income": false,
+                    "description": "ค่าประกันภัยรถยนต์"
                 },
                 {
                     "tran_id": 7,
                     "start_date": "2023-01-02 09:32:00",
                     "amount": 3382.01,
                     "income": true,
-                    "description": "รายการธุรกรรม"
+                    "description": "ค่านำมันรถยนต์"
                 },
                 {
                     "tran_id": 8,

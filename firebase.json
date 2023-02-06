@@ -162,6 +162,10 @@
       {
         "source": "/pdpa/ez@u/release/w",
         "destination": "/pdpaEZ@U#1.0.1.white.pdf"
+      },
+      {
+        "source": "/response/myhappysalary/home_screen",
+        "destination": "/myhappysalary/home_screen.json"
       }
 
 

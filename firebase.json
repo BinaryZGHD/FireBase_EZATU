@@ -166,6 +166,10 @@
       {
         "source": "/response/myhappysalary/home_screen",
         "destination": "/myhappysalary/home_screen.json"
+      },
+      {
+        "source": "/response/myhappysalary/language_screen",
+        "destination": "/myhappysalary/language_screen.json"
       }
 
 

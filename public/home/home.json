@@ -2,28 +2,62 @@
     "head": {
         "status": 200,
         "message": "success",
-        "module": "home"
+        "modulename": "activity",
+        "timeexpire": false
     },
     "body": {
         "screenInfo": {
-            "titlestatus": "กิจกรรมของฉัน",
+            "titleact": "กิจกรรมของฉัน",
             "btnadd": "เพิ่ม",
             "textname": "ชื่อ",
             "textnickname": "ชื่อเล่น",
             "textgen": "รุ่น",
             "textstdcode": "รหัสนิสิต",
-            "textemail": "อีเมล",
+            "textemail": "อิเมล",
             "textrole": "ประเภทผู้ใช้งาน",
             "textlang": "ภาษา",
-            "textlangdetail": "Thai",
-            "textstdtc": "นิสิต",
+            "textthai": "Thai",
             "btncpass": "เปลี่ยนรหัสผ่าน",
-            "btndelacc": "ลบบัญชีผู้ใช้",
-            "textappver": "แอปพลิเคชั่นเวอร์ชั่น",
-            "btnlogout": "ออกจากระบบ"
-
+            "btncpin": "เปลี่ยนรหัส PIN",
+            "btndelacc": "ลบบัญชี",
+            "textappver": "เวอร์ชันแอปพลิเคชัน",
+            "btnlogout": "ออกจากระบบ",
+            "modetheme": "โหมดธีม",
+            "lockscreencode": "รหัสล็อคหน้าจอ",
+            "dark": "มืด",
+            "setting": "ตั้งค่า",
+            "position": "ตำแหน่งทางวิชาการ",
+            "titleactteacher": "ยืนยันกิจกรรม",
+            "btnseeall": "ดูทั้งหมด"
         },
-    
-        "vs": "1.0.0.0 Beta"
+        "errorbutton": {
+            "buttonok": "ตกลง",
+            "buttonconfirm": "ยืนยัน",
+            "buttonyes": "ใช่",
+            "buttonno": "ไม่ใช่",
+            "buttoncancel": "ยกเลิก"
+        },
+        "alertmessage": {
+            "alertdeleteaccount": "คุณต้องการลบบัญชีใช่หรือไม่ หากคุณต้องการลบบัญชีผู้ใช้ กรุณากดปุ่ม 'ตกลง' หรือกดปุ่ม 'ยกเลิก' เพื่อกลับไปใช้งาน",
+            "alertdeleteaccountpassword": "กรุณากรอกรหัสผ่าน เพื่อยืนยันการลบบัญชี ",
+            "alertdeleteaccountpdpa": "การลบบัญชี จะเป็นไปตามเงื่อนไขและข้อตกลง",
+            "alertlogout": "คุณต้องการออกจากระบบใช่หรือไม่",
+            "alertpassword": "รหัสผ่าน",
+            "emailsupport": "scibuu.pr@gmail.com",
+            "phonesupport": "0-3810-3011",
+            "alertpdpa": "alertpdpaTH",
+            "alertupdateapp": "alertupdateappTH",
+            "titlenewappversion": "EZ@U มีเวอร์ชันใหม่มาแล้วค่ะ",
+            "subtitlenewappversion": "กรุณาอัปเดตแอปเพื่อใช้งานต่อค่ะ",
+            "titlenewpadaversion": "แอปพลิเคชัน EZ@U มีข้อตกและเงื่อนไขใหม่แล้วค่ะ",
+            "subtitlenewpadaversion": "กรุณายอมรับข้อตกลงและเงื่อนไขใหม่ เพื่อใช้งานแอปพลิเคชันค่ะ"
+        },
+        "other": {
+            "user_pdpa_version": "1.0.1",
+            "pdpa_version": "1.0.1",
+            "pdpa_link": "https://ezatu-service-fsci.web.app/pdpa/ez@u/release",
+            "app_version": "1.0.0",
+            "app_link": "https://drive.google.com/drive/folders/1rCn2H4H-9X43nW_pRTVDG-V9MEntuu0c?usp=sharing"
+        }
     }
 }

@@ -1,0 +1,38 @@
+{
+    "head": {
+        "status": 200,
+        "message": "success",
+        "modulename": "activity/summary",
+        "timeexpire": false
+    },
+    "body": {
+        "screenInfo": {
+            "text_tatal_activity": "งานทั้งหมด"
+        },
+        "payloadData": {
+            "ActivityCount": 80,
+            "ActivitySummaryDatas": [
+                {
+                    "ActivityStatusId": "ToDo",
+                    "ActivityStatusName": "สิ่งที่ต้องทำ",
+                    "ActivityStatusColor": "#FEB22B",
+                    "count": 55
+                },
+                {
+                    "ActivityStatusId": "ToApprove",
+                    "ActivityStatusName": "รอการอนุมัติ",
+                    "ActivityStatusColor": "#25E197",
+                    "count": 10
+                },
+                {
+                    "ActivityStatusId": "ToReject",
+                    "ActivityStatusName": "ปฎิเสธ",
+                    "ActivityStatusColor": "#FF5D9E",
+                    "count": 15
+                }
+
+            ]
+        }
+
+    }
+}

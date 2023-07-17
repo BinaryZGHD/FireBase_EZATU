@@ -78,6 +78,10 @@
         "destination": "/home/more.json"
       },
       {
+        "source": "/v1/api/modules/home/activitysummary/mockup",
+        "destination": "/home/ActivitySummaryData.json"
+      },
+      {
         "source": "/v1/api/modules/home/wording/homemore",
         "destination": "/home/homemorewording.json"
       },

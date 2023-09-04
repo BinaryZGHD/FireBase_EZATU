@@ -11,7 +11,7 @@
         "source": "/DOCS",
         "destination": "/index.html"
       },
-      
+    
       {
         "source": "/image",
         "destination": "/img.html"
@@ -22,11 +22,11 @@
       },
       {
         "source": "/pdpa/ez@u/release",
-        "destination": "/pdpaEZ@U#1.0.1.pdf"
+        "destination": "/EZATU-PDPA/EZATU-PDPA-102.pdf"
       },
       {
         "source": "/pdpa/ez@u/release/b",
-        "destination": "/pdpaEZ@U#1.0.1.black.pdf"
+        "destination": "/EZATU-PDPA/EZATU-PDPA-102.pdf"
       },
       {
         "source": "/pdpa/ez@u/release/w",

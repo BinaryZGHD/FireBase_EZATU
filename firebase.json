@@ -11,145 +11,14 @@
         "source": "/DOCS",
         "destination": "/index.html"
       },
-      {
-        "source": "/apis",
-        "destination": "/APIs.html"
-      },
-      {
-        "source": "/IIS",
-        "destination": "/IIS.html"
-      },
-      {
-        "source": "/Alert",
-        "destination": "/Alert.html"
-      },
-      {
-        "source": "/alert/logout",
-        "destination": "/dialogs/logout.json"
-      },
       
-      {
-        "source": "/resume/by/chin",
-        "destination": "/resume.html"
-      },
-      {
-        "source": "/alert/deleteaccount",
-        "destination": "/dialogs/deleteaccount.json"
-      },
-      {
-        "source": "/alert/noactivity",
-        "destination": "/dialogs/noActivity.json"
-      },
-      {
-        "source": "/response",
-        "destination": "/response.json"
-      },
-      
-      {
-        "source": "/v1/api/modules/login/wording/login",
-        "destination": "/login/loginwording.json"
-      },
-      {
-        "source": "/v1/api/modules/login/wording/register",
-        "destination": "/login/registerwording.json"
-      },
-      {
-        "source": "/v1/api/modules/login/wording/forgotpassword",
-        "destination": "/login/forgotpasswordwording.json"
-      },
-      {
-        "source": "/v1/api/modules/login/wording/changpassword",
-        "destination": "/login/changpasswordwording.json"
-      },
-      {
-        "source": "/v1/api/modules/login/wording/PDPA",
-        "destination": "/login/PDPAWording.Json"
-      },
-      {
-        "source": "/v1/api/modules/home/home",
-        "destination": "/home/home.json"
-      },
       {
         "source": "/image",
         "destination": "/img.html"
       },
       {
-        "source": "/v1/api/modules/home/more",
-        "destination": "/home/more.json"
-      },
-      {
-        "source": "/v1/api/modules/home/wording/homemore",
-        "destination": "/home/homemorewording.json"
-      },
-      {
-        "source": "/v1/api/modules/home/wording/moreerror",
-        "destination": "/home/moreerrorwording.json"
-      },
-      {
-        "source": "/v1/api/modules/home/wording/homestatusactivity",
-        "destination": "/home/homestatusactivity.json"
-      },
-      {
-        "source": "/v1/api/modules/home/more/data/boardstudy",
-        "destination": "/home/homemoreboardstudent.json"
-      },
-      {
-        "source": "/v1/api/modules/home/more/data/boardteacher",
-        "destination": "/home/homemoreboardteacher.json"
-      },
-      {
-        "source": "/v1/api/modules/home/more/faq",
-        "destination": "/home/faq.json"
-      },
-
-      {
-        "source": "/v1/api/modules/activity/wording/add_edit_activity",
-        "destination": "/activity/addeditactivitywording.json"
-      },
-
-      {
-        "source": "/v1/api/modules/activity/wording/statusactivity",
-        "destination": "/activity/activitystatuswording.json"
-      },
-      {
-        "source": "/v1/api/modules/profile/editgeneral",
-        "destination": "/profile/editgeneral.json"
-      },
-      {
-        "source": "/v1/api/modules/profile/wording/profile",
-        "destination": "/profile/profilewording.json"
-      },
-      {
-        "source": "/v1/api/modules/profile/editgeneral",
-        "destination": "/profile/editgeneral.json"
-      },
-      {
-        "source": "/v1/api/modules/profile/editeducation",
-        "destination": "/profile/editeducation.json"
-      },
-      {
-        "source": "/v1/api/modules/profile/editaddress",
-        "destination": "/profile/editaddress.json"
-      },
-      {
-        "source": "/v1/api/modules/profile/editcontact",
-        "destination": "/profile/editcontact.json"
-      },
-      {
-        "source": "/v1/api/modules/profile/editcareer",
-        "destination": "/profile/editcareer.json"
-      },
-      {
         "source": "/pdpa",
         "destination": "/pdpa#1.pdf"
-      },
-      {
-        "source": "/resume/chin2",
-        "destination": "/resume2.html"
-      },
-      {
-        "source": "/resume/by/chin/new",
-        "destination": "/resume3.html"
       },
       {
         "source": "/pdpa/ez@u/release",
@@ -162,14 +31,6 @@
       {
         "source": "/pdpa/ez@u/release/w",
         "destination": "/pdpaEZ@U#1.0.1.white.pdf"
-      },
-      {
-        "source": "/response/myhappysalary/home_screen",
-        "destination": "/myhappysalary/home_screen.json"
-      },
-      {
-        "source": "/response/myhappysalary/language_screen",
-        "destination": "/myhappysalary/language_screen.json"
       }
 
 
